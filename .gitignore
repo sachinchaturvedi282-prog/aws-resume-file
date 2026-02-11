@@ -1,0 +1,12 @@
+# Ignore private keys
+*.pem
+
+# Ignore SSH folder
+.ssh/
+
+# Ignore environment secrets
+.env
+
+# Ignore other common secrets
+*.key
+*.crt
